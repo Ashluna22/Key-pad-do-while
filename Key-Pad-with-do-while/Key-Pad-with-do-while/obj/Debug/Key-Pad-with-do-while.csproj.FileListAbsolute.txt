@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\Key.pad.with.do.while\Key-Pad-with-do-while\Key-Pad-with-do-while\obj\Debug\Key-Pad-with-do-while.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Key.pad.with.do.while\Key-Pad-with-do-while\Key-Pad-with-do-while\obj\Debug\Key-Pad-with-do-while.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Key.pad.with.do.while\Key-Pad-with-do-while\Key-Pad-with-do-while\bin\Debug\Key-Pad-with-do-while.exe.config
+C:\Users\Owner\Desktop\Key.pad.with.do.while\Key-Pad-with-do-while\Key-Pad-with-do-while\bin\Debug\Key-Pad-with-do-while.exe
+C:\Users\Owner\Desktop\Key.pad.with.do.while\Key-Pad-with-do-while\Key-Pad-with-do-while\bin\Debug\Key-Pad-with-do-while.pdb
+C:\Users\Owner\Desktop\Key.pad.with.do.while\Key-Pad-with-do-while\Key-Pad-with-do-while\obj\Debug\Key-Pad-with-do-while.exe
+C:\Users\Owner\Desktop\Key.pad.with.do.while\Key-Pad-with-do-while\Key-Pad-with-do-while\obj\Debug\Key-Pad-with-do-while.pdb

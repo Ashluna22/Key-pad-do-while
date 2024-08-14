@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\Desktop\\Key.pad.with.do.while\\Key-Pad-with-do-while\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{028E536C-2343-4F2B-8A22-6BBDB3671A44}|Key-Pad-with-do-while\\Key-Pad-with-do-while.csproj|c:\\users\\owner\\desktop\\key.pad.with.do.while\\key-pad-with-do-while\\key-pad-with-do-while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{028E536C-2343-4F2B-8A22-6BBDB3671A44}|Key-Pad-with-do-while\\Key-Pad-with-do-while.csproj|solutionrelative:key-pad-with-do-while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Key.pad.with.do.while\\Key-Pad-with-do-while\\Key-Pad-with-do-while\\Program.cs",
+              "RelativeDocumentMoniker": "Key-Pad-with-do-while\\Program.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Key.pad.with.do.while\\Key-Pad-with-do-while\\Key-Pad-with-do-while\\Program.cs",
+              "RelativeToolTip": "Key-Pad-with-do-while\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:35:59.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
